@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Camping in Tunisia</string>
+    <string name="textCaption">places to visit in Tunisia</string>
+    <string name="buttonCaption">Next</string>
+    <string name="nextScreen">Skip</string>
+    <string name="image1">image1</string>
+    <string name="image2">image2</string>
+    <string name="image3">image3</string>
+    <string name="image4">image4</string>
+    <string name="image5">image5</string>
+    <string name="image6">image6</string>
+    <string name="image7">image7</string>
+    <string name="image8">image8</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="close">Close</string>
+</resources>
