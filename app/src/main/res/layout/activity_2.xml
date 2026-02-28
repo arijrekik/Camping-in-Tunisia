@@ -9,8 +9,10 @@
     tools:context=".Activity2">
 
     <ImageView
-        android:id="@+id/imageView17"
+        android:id="@+id/imageView1"
         android:layout_width="165dp"
+        android:clickable="true"
+        android:focusable="true"
         android:layout_height="130dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -18,11 +20,11 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.737"
-        app:srcCompat="@drawable/tunis6"
+        app:srcCompat="@drawable/c01"
         android:contentDescription="@string/image1"/>
 
     <ImageView
-        android:id="@+id/imageView16"
+        android:id="@+id/imageView2"
         android:layout_width="165dp"
         android:layout_height="130dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -31,11 +33,11 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.737"
-        app:srcCompat="@drawable/tunis7"
+        app:srcCompat="@drawable/c02"
         android:contentDescription="@string/image2"/>
 
     <ImageView
-        android:id="@+id/imageView14"
+        android:id="@+id/imageView3"
         android:layout_width="165dp"
         android:layout_height="130dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -44,11 +46,11 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.499"
-        app:srcCompat="@drawable/tunis5"
+        app:srcCompat="@drawable/c03"
         android:contentDescription="@string/image3"/>
 
     <ImageView
-        android:id="@+id/imageView13"
+        android:id="@+id/imageView4"
         android:layout_width="165dp"
         android:layout_height="130dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -57,11 +59,11 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.499"
-        app:srcCompat="@drawable/tunis4"
+        app:srcCompat="@drawable/c04"
         android:contentDescription="@string/image4"/>
 
     <ImageView
-        android:id="@+id/imageView12"
+        android:id="@+id/imageView5"
         android:layout_width="165dp"
         android:layout_height="130dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -70,11 +72,11 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.264"
-        app:srcCompat="@drawable/tunis3"
+        app:srcCompat="@drawable/c05"
         android:contentDescription="@string/image5"/>
 
     <ImageView
-        android:id="@+id/imageView11"
+        android:id="@+id/imageView6"
         android:layout_width="165dp"
         android:layout_height="130dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -83,11 +85,11 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.264"
-        app:srcCompat="@drawable/tunis2"
+        app:srcCompat="@drawable/c06"
         android:contentDescription="@string/image6"/>
 
     <ImageView
-        android:id="@+id/imageView10"
+        android:id="@+id/imageView7"
         android:layout_width="165dp"
         android:layout_height="130dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -96,11 +98,11 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.026"
-        app:srcCompat="@drawable/tunis1"
+        app:srcCompat="@drawable/c07"
         android:contentDescription="@string/image7"/>
 
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/imageView8"
         android:layout_width="165dp"
         android:layout_height="130dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -109,7 +111,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.026"
-        app:srcCompat="@drawable/tunis"
+        app:srcCompat="@drawable/c08"
         android:contentDescription="@string/image8"/>
 
     <Button
